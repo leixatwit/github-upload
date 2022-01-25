@@ -43,7 +43,7 @@ label start:
     "But today is special, according to Sayori."
     "The special edition of Madoka Magica releases today."
     ""
-
+    "I made a change"
     # This ends the game.
 
     return
